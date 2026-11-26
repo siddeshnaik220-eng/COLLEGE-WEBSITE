@@ -1,0 +1,8 @@
+myenv/
+__pycache__/
+*.py[cod]
+.env
+instance/
+private_uploads/
+*.sqlite3
+.pytest_cache/
