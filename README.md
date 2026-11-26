@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BMSIT Assignment Management System
 
 A local full-stack assignment workflow demo based on the provided SRS and Software Design Document. It uses Flask REST APIs, Flask-SQLAlchemy, SQLite, private local file storage, and a responsive HTML/CSS/JavaScript interface.
@@ -44,3 +45,7 @@ The sample professor is mapped to Software Engineering (CS501), Semester 5. Use 
 ```powershell
 python -m unittest discover -s tests -v
 ```
+=======
+# COLLEGE-WEBSITE
+CREATING MY  COLLEGE WEBSITE
+>>>>>>> 9c9659f522840f5678f9d4914c5a358cbb46566b
